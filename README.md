@@ -1,2 +1,0 @@
-# RenArt
-Created with CodeSandbox
